@@ -1,0 +1,60 @@
+container{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #ccc;
+	
+	
+}
+
+#typography{
+	
+	width: 50%;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+.isking{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: baseline;
+	position: absolute;
+	top:5%;
+	left:53.5%;
+}
+
+
+.type{
+position: absolute;
+	
+}
+.king{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 10em;
+	color: #E0564F;
+	
+	
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 11.5em;
+	color: #2D2D2D;
+	
+}
+
+h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 8em;
+	color:#4C4C4C;
+	padding-right: 4%;
+}
